@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.9.4
+Created-By: 1.8.0_31-b13 (Oracle Corporation)
+Class-Path: lib/mysql-connector-java-5.0.8-bin.jar lib/mysql-connector
+ -java-5.1.16.jar lib/mysql-connector-java.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: ServidorPuntuaciones
+
