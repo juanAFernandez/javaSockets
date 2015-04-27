@@ -1,0 +1,1 @@
+El cliente está creado con NetBeans, podéis abrir el proyecto y ejecutarlo diréctamente mientra que el servidor está pensado para ser ejecutado sin entorno gráfico, por eso dispone de un makefile con el que sólo hay que hacer make para compilar los .class, make run para ejecutar y make clean cuando queramos limpiar los ficheros.
