@@ -1,12 +1,13 @@
 javaSockets
 ============
 
-Pruebas con los sockets de Java. 
-
-
+Pruebas e implementaciones de ejemplo con los sockets de Java. 
 
 1. Servidor concurrente con respuesta automática.
-2. asdfdsafs 
+2. ---
+3. ---
+4. ---
+5. ---
 
 
 
